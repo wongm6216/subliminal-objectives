@@ -1,0 +1,3 @@
+[submodule "third_party/beyond_owls"]
+	path = third_party/beyond_owls
+	url = https://github.com/wongm6216/beyond_owls.git
